@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Dance",
+    "price": 79,
+    "image": "https://cdn.pixabay.com/photo/2016/11/29/09/17/gift-1869484_1280.png"
+  },
+  {
+    "id": 2,
+    "title": "Kiss",
+    "price": 59,
+    "image": "https://cdn.pixabay.com/photo/2017/01/31/13/14/kiss-2029212_1280.png"
+  },
+  {
+    "id": 3,
+    "title": "LOL",
+    "price": 50,
+    "image": "https://cdn.pixabay.com/photo/2016/03/31/19/37/emoticon-1299634_1280.png"
+  },
+  {
+    "id": 4,
+    "title": "Heart",
+    "price": 29,
+    "image": "https://cdn.pixabay.com/photo/2016/12/01/10/34/love-1872690_1280.png"
+  },
+  {
+    "id": 5,
+    "title": "Smile",
+    "price": 20,
+    "image": "https://cdn.pixabay.com/photo/2014/04/03/00/43/smiley-309757_1280.png"
+  },
+  {
+    "id": 6,
+    "title": "Hug",
+    "price": 20,
+    "image": "https://cdn.pixabay.com/photo/2019/11/10/13/27/hug-4620993_1280.png"
+  },
+  {
+    "id": 7,
+    "title": "Fish",
+    "price": 19,
+    "image": "https://cdn.pixabay.com/photo/2014/04/02/11/59/fish-305836_1280.png"
+  },
+  {
+    "id": 8,
+    "title": "Hot",
+    "price": 15,
+    "image": "https://cdn.pixabay.com/photo/2014/11/01/09/29/fire-513456_1280.png"
+  },
+  {
+    "id": 9,
+    "title": "Sweat",
+    "price": 10,
+    "image": "https://cdn.pixabay.com/photo/2012/04/11/21/05/sweat-28760_1280.png"
+  },
+  {
+    "id": 10,
+    "title": "Boom",
+    "price": 6,
+    "image": "https://cdn.pixabay.com/photo/2016/04/28/00/58/explosion-1354522_1280.png"
+  },
+  {
+    "id": 11,
+    "title": "Cute",
+    "price": 5,
+    "image": "https://cdn.pixabay.com/photo/2017/01/31/13/18/smiley-2029227_1280.png"
+  },
+  {
+    "id": 12,
+    "title": "Angry",
+    "price": 2,
+    "image": "https://cdn.pixabay.com/photo/2016/04/01/09/19/smiley-1300046_1280.png"
+  }
+]
